@@ -108,18 +108,18 @@ function App() {
         <div className="relative mx-auto grid w-full max-w-3xl gap-5 pt-12">
           <div className="relative min-h-[350px] overflow-hidden rounded-[1.75rem] bg-deep shadow-soft sm:min-h-[520px]">
             <img
-              src="/images/reference/mf22-launch-room.webp"
+              src="images/reference/mf22-launch-room.webp"
               alt="Mission Force 22 mission room with kids ministry resources"
               className="absolute inset-0 h-full w-full object-cover"
             />
             <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(12,29,41,0.14)_0%,rgba(12,29,41,0.08)_38%,rgba(12,29,41,0.82)_100%)]" />
             <img
-              src="/images/reference/mf22-logo.webp"
+              src="images/reference/mf22-logo.webp"
               alt="Mission Force 22"
               className="absolute left-4 top-5 w-32 drop-shadow-2xl sm:w-44"
             />
             <img
-              src="/images/reference/mf22-mission-case.webp"
+              src="images/reference/mf22-mission-case.webp"
               alt="Mission Force 22 resource briefcase"
               className="absolute bottom-20 right-[-22px] w-[78%] max-w-md drop-shadow-2xl sm:right-5 sm:w-[58%]"
             />
@@ -188,10 +188,10 @@ function App() {
           </p>
           <div className="mt-6 grid grid-cols-2 gap-3">
             {[
-              ["/images/reference/mf22-book-cover.webp", "Book"],
-              ["/images/reference/mf22-character-sheet.webp", "Characters"],
-              ["/images/reference/mf22-comic-page-1.webp", "Comic"],
-              ["/images/reference/mf22-briefcase-explainer.webp", "Resource kit"],
+              ["images/reference/mf22-book-cover.webp", "Book"],
+              ["images/reference/mf22-character-sheet.webp", "Characters"],
+              ["images/reference/mf22-comic-page-1.webp", "Comic"],
+              ["images/reference/mf22-briefcase-explainer.webp", "Resource kit"],
             ].map(([src, label]) => (
               <figure
                 key={src}

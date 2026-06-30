@@ -18,9 +18,9 @@ export function VideoPreview() {
           controls
           playsInline
           preload="none"
-          poster="/images/reference/jesus-calms-the-storm-cover.webp"
+          poster="images/reference/jesus-calms-the-storm-cover.webp"
         >
-          <source src="/videos/jesus-calms-the-storm-preview.mp4" type="video/mp4" />
+          <source src="videos/jesus-calms-the-storm-preview.mp4" type="video/mp4" />
           Your browser does not support embedded video.
         </video>
       </div>

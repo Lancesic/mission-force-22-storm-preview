@@ -22,7 +22,7 @@ export const contactLinks = {
 export const resourceLinks = {
   slideShow: "https://bit.ly/JesusCalmsTheStormSlideShow",
   bookSample: "https://bit.ly/MissionForce22BookSample",
-  stormKitPdf: "/resources/jesus-calms-the-storm-ministry-kit.pdf",
+  stormKitPdf: "resources/jesus-calms-the-storm-ministry-kit.pdf",
 };
 
 export const hero = {
@@ -51,27 +51,27 @@ export const overviewCards = [
 
 export const missionGallery = [
   {
-    src: "/images/reference/mf22-book-cover.webp",
+    src: "images/reference/mf22-book-cover.webp",
     title: "Book 1 cover",
     caption: "The Mission Force 22 world opens with story, characters, and a clear ministry theme.",
   },
   {
-    src: "/images/reference/mf22-character-sheet.webp",
+    src: "images/reference/mf22-character-sheet.webp",
     title: "Character system",
     caption: "Kids meet a team with distinct gifts, values, expressions, poses, and ministry tools.",
   },
   {
-    src: "/images/reference/mf22-comic-page-1.webp",
+    src: "images/reference/mf22-comic-page-1.webp",
     title: "Comic book storytelling",
     caption: "The same mission idea can become visual story pages children want to explore.",
   },
   {
-    src: "/images/reference/mf22-launch-room.webp",
+    src: "images/reference/mf22-launch-room.webp",
     title: "Mission environment",
     caption: "A warm, kid-friendly ministry world built around maps, prayer, Scripture, and action.",
   },
   {
-    src: "/images/reference/mf22-briefcase-explainer.webp",
+    src: "images/reference/mf22-briefcase-explainer.webp",
     title: "Resource kit language",
     caption: "The system turns Bible truth into tangible tools: cards, journals, maps, badges, and prompts.",
   },
@@ -81,103 +81,103 @@ export const kitCards = [
   {
     title: "Leader Guide",
     text: "A ready-to-use teaching path that keeps the lesson focused and simple.",
-    image: "/images/reference/leader-guide-preview.webp",
+    image: "images/reference/leader-guide-preview.webp",
   },
   {
     title: "Interactive Story Cards",
     text: "Visual cues that help kids hear, say, and act out the Bible story.",
-    image: "/images/reference/story-cards-preview.webp",
+    image: "images/reference/story-cards-preview.webp",
   },
   {
     title: "Memory Verse Game",
     text: "A playful way to repeat Mark 4:41 until the truth sticks.",
-    image: "/images/reference/activity-preview.webp",
+    image: "images/reference/activity-preview.webp",
   },
   {
     title: "Peace Be Still Movement Game",
     text: "Kids move through the storm and then practice stillness and trust.",
-    image: "/images/reference/peace-be-still-movement-game.webp",
+    image: "images/reference/peace-be-still-movement-game.webp",
   },
   {
     title: "Boat Bowl Object Lesson",
     text: "A concrete picture of fear, waves, and Jesus' authority.",
-    image: "/images/reference/boat-bowl-object-lesson.webp",
+    image: "images/reference/boat-bowl-object-lesson.webp",
   },
   {
     title: "Storm Meter Emotion Check-In",
     text: "A gentle way for kids to name fear and bring it to Jesus.",
-    image: "/images/reference/storm-meter-graphic.webp",
+    image: "images/reference/storm-meter-graphic.webp",
   },
   {
     title: "Craft",
     text: "A hands-on reminder that Jesus is with them in the storm.",
-    image: "/images/reference/jesus-coloring-page.webp",
+    image: "images/reference/jesus-coloring-page.webp",
   },
   {
     title: "Worksheets",
     text: "Simple printed activities that reinforce the same truth.",
-    image: "/images/reference/activity-page-preview.webp",
+    image: "images/reference/activity-page-preview.webp",
   },
   {
     title: "Mini Storybook",
     text: "A take-home retelling that helps the lesson travel with the child.",
-    image: "/images/reference/mini-storybook-preview.webp",
+    image: "images/reference/mini-storybook-preview.webp",
   },
   {
     title: "Parent Take-Home Plan",
     text: "A short home rhythm with verse, prayer, and bedtime conversation.",
-    image: "/images/reference/today-we-learned.webp",
+    image: "images/reference/today-we-learned.webp",
   },
   {
     title: "Volunteer Guide",
     text: "Quick preparation notes so helpers know the purpose of each moment.",
-    image: "/images/reference/volunteer-quick-guide.webp",
+    image: "images/reference/volunteer-quick-guide.webp",
   },
   {
     title: "Slide Deck Outline",
     text: "A simple visual path for large group or classroom teaching.",
-    image: "/images/reference/slide-deck-outline.webp",
+    image: "images/reference/slide-deck-outline.webp",
   },
 ];
 
 export const kitGallery = [
   {
-    src: "/images/reference/jesus-calms-the-storm-cover.webp",
+    src: "images/reference/jesus-calms-the-storm-cover.webp",
     title: "Kit cover",
     caption: "A warm first impression for the ministry kit.",
   },
   {
-    src: "/images/reference/leader-guide-preview.webp",
+    src: "images/reference/leader-guide-preview.webp",
     title: "Leader guide",
     caption: "A complete teaching path for leaders.",
   },
   {
-    src: "/images/reference/story-cards-preview.webp",
+    src: "images/reference/story-cards-preview.webp",
     title: "Story cards",
     caption: "Story cues kids can hear, say, and act out.",
   },
   {
-    src: "/images/reference/parent-take-home-preview.webp",
+    src: "images/reference/parent-take-home-preview.webp",
     title: "Parent take-home",
     caption: "A rhythm that helps parents continue the truth at home.",
   },
   {
-    src: "/images/reference/activity-preview.webp",
+    src: "images/reference/activity-preview.webp",
     title: "Memory verse activity",
     caption: "Activities that echo the same Bible story instead of feeling random.",
   },
   {
-    src: "/images/reference/peace-be-still-movement-game.webp",
+    src: "images/reference/peace-be-still-movement-game.webp",
     title: "Movement game",
     caption: "Kids act through wind, waves, fear, and calm with the same truth repeated.",
   },
   {
-    src: "/images/reference/boat-bowl-object-lesson.webp",
+    src: "images/reference/boat-bowl-object-lesson.webp",
     title: "Object lesson",
     caption: "A hands-on boat and water moment helps kids feel the storm becoming still.",
   },
   {
-    src: "/images/reference/mini-storybook-preview.webp",
+    src: "images/reference/mini-storybook-preview.webp",
     title: "Mini storybook",
     caption: "A small storybook that helps the lesson travel home.",
   },
