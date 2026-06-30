@@ -1,0 +1,26 @@
+{
+  "name": "mission-force-22-storm-preview",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --configLoader runner --host 0.0.0.0",
+    "build": "tsc && vite build --configLoader runner",
+    "preview": "vite preview --configLoader runner --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "vite": "^7.0.0",
+    "typescript": "^5.8.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "lucide-react": "^0.468.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17"
+  }
+}
